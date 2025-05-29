@@ -1,0 +1,26 @@
+[
+  {
+    "id": "btc",
+    "title": "Bitcoin (BTC)",
+    "description": "Сеть Bitcoin (BTC)",
+    "value": "bc1q6cxp4d78yrs4sfhmffrfxl73nm37tczz0u5sxe",
+    "type": "copy",
+    "icon": "/icons/btc.svg"
+  },
+  {
+    "id": "eth",
+    "title": "Ethereum (ETH)",
+    "description": "Сеть Ethereum (ERC-20)",
+    "value": "0x18AfF09D6e896345bcF9685daDe4888168572CaD",
+    "type": "copy",
+    "icon": "/icons/eth.svg"
+  },
+  {
+    "id": "usdt",
+    "title": "Tether (USDT)",
+    "description": "Сеть TRON (TRC-20)",
+    "value": "TNcajtmiNmKe5c5euggux6ooFqokAtuRYj",
+    "type": "copy",
+    "icon": "/icons/usdt.svg"
+  }
+]
