@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tg",
+    "title": "Telegram",
+    "description": "Уведомления включены, но не всегда",
+    "value": "https://t.me/Taskov1ch",
+    "icon": "/icons/telegram.svg",
+    "type": "link"
+  },
+  {
+    "id": "vk",
+    "title": "VKontakte",
+    "description": "Без коментариев",
+    "value": "https://vk.com/id_taskov1ch",
+    "icon": "/icons/vk.svg",
+    "type": "link"
+  },
+  {
+    "id": "matrix",
+    "title": "Matrix (Element)",
+    "description": "Уведомления включены, но не всегда",
+    "value": "@taskov1ch:matrix.org",
+    "icon": "/icons/element.svg",
+    "type": "copy"
+  },
+  {
+    "id": "discord",
+    "title": "Discord",
+    "description": "Почти никогда там не бываю",
+    "value": "taskov1ch",
+    "icon": "/icons/discord.svg",
+    "type": "copy"
+  }
+]
