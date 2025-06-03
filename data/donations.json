@@ -3,23 +3,23 @@
     "id": "btc",
     "title": "Bitcoin (BTC)",
     "description": "Сеть Bitcoin (BTC)",
-    "value": "bc1q6cxp4d78yrs4sfhmffrfxl73nm37tczz0u5sxe",
+    "value": "15btCKAeXsv3U1TKaMxYxmkvZCJv23j8Gt",
     "type": "copy",
     "icon": "/icons/btc.svg"
   },
   {
-    "id": "eth",
-    "title": "Ethereum (ETH)",
-    "description": "Сеть Ethereum (ERC-20)",
-    "value": "0x18AfF09D6e896345bcF9685daDe4888168572CaD",
+    "id": "usdt-tron",
+    "title": "Tether (USDT)",
+    "description": "Сеть TRON (TRC-20) (НЕ ПУТАТЬ С TON)",
+    "value": "TTpBzFN7Eva726EwmtJgDL58JFtwDcVGBt",
     "type": "copy",
-    "icon": "/icons/eth.svg"
+    "icon": "/icons/usdt.svg"
   },
   {
-    "id": "usdt",
+    "id": "usdt-ton",
     "title": "Tether (USDT)",
-    "description": "Сеть TRON (TRC-20)",
-    "value": "TNcajtmiNmKe5c5euggux6ooFqokAtuRYj",
+    "description": "Сеть TON (НЕ ПУТАТЬ С TRON)",
+    "value": "UQAr4jWQUFrF7AG19jVDXsK8vHZyqmFGtbqtN6-09bi5LYf-",
     "type": "copy",
     "icon": "/icons/usdt.svg"
   }
