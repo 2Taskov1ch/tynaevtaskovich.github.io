@@ -35,20 +35,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f51d2ae115cc6222d89d48bc"
   },
   {
-    "id": "m7",
-    "title": "Starstreamer",
-    "composer": "Akraa",
-    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m7.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273500eae87a93448d35e057446"
-  },
-  {
-    "id": "m8",
-    "title": "Spaceflight",
-    "composer": "Protocols",
-    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m8.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361e5649545bfdf0f22e2d935"
-  },
-  {
     "id": "m9",
     "title": "Ground Zero",
     "composer": "AniZero",
@@ -138,6 +124,62 @@
     "composer": "EGOIST",
     "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m21.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27305391e61a3d84f0969f0b6a0"
+  },
+  {
+    "id": "m22",
+    "title": "Ева",
+    "composer": "Винтаж",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m22.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02be363b1e9e4fd60552123d7a"
+  },
+  {
+    "id": "m23",
+    "title": "Devil Trigger",
+    "composer": "Casey Edwards",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m23.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e026ab9aff73fa181d27dd8b9e0"
+  },
+  {
+    "id": "m24",
+    "title": "Caramelldancing - Radio Version",
+    "composer": "Caramella Girls",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m24.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0262116d8cbc993d98ee7f1c6a"
+  },
+  {
+    "id": "m25",
+    "title": "Call of Silence（Remix)",
+    "composer": "Clear Sky",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m25.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e025b63cdfc1c5fe5a978f550df"
+  },
+  {
+    "id": "m26",
+    "title": "Oh My Little Baby Boy",
+    "composer": "ADZXRY, KVSHX, SHALLOWPIE",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m26.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0241383d6a48cd0ac741395d5d"
+  },
+  {
+    "id": "m27",
+    "title": "funny onion song",
+    "composer": "internetcafe247",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m27.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02b7931dbb864c7e1607154ac0"
+  },
+  {
+    "id": "m28",
+    "title": "Once Upon A Time - Melodic House & Techno Extended Mix",
+    "composer": "Max Oazo, Moonessa",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m28.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02fd91880a9fb406d08831668a"
+  },
+  {
+    "id": "m29",
+    "title": "Symphony (feat. Zara Larsson)",
+    "composer": "Clean Bandit, Zara Larsson",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m29.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e025b1130d050c4cd2295999d85"
   }
 ]
 
