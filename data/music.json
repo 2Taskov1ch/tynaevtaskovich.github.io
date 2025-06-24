@@ -181,6 +181,27 @@
     "composer": "Clean Bandit, Zara Larsson",
     "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m29.mp3",
     "cover": "https://i.scdn.co/image/ab67616d00001e025b1130d050c4cd2295999d85"
+  },
+  {
+    "id": "m30",
+    "title": "It's Going Down Now",
+    "composer": "高橋あず美, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m30.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02e59bdb7ca29ddfcb23ec4bf6"
+  },
+  {
+    "id": "m31",
+    "title": "Game Never Over - Mobile Legends: Bang Bang M6 World Championship",
+    "composer": "Mobile Legends: Bang Bang, Clear Music, Bjørgen van Essen, RIENK",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m31.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0253d70fab8b76eeb51f815ec5"
+  },
+  {
+    "id": "m32",
+    "title": "MLBB Rising Open Theme",
+    "composer": "Mobile Legends: Bang Bang",
+    "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m32.mp3",
+    "cover": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/6765d07a38dd0.jpg"
   }
 ]
 
