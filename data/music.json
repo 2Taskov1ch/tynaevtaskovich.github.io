@@ -201,7 +201,8 @@
     "title": "MLBB Rising Open Theme",
     "composer": "Mobile Legends: Bang Bang",
     "src": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/music/m32.mp3",
-    "cover": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/6765d07a38dd0.jpg"
+    "cover": "https://raw.githubusercontent.com/2Taskov1ch/tynaevtaskovich.github.io/refs/heads/main/6765d07a38dd0.jpg",
+    "original": true
   }
 ]
 
